@@ -2,6 +2,8 @@
 
 DSA resources:
 
+- Grokking Algorithms
+
 - [Elements of Progamming Interviews in c++](http://elementsofprogramminginterviews.com/sample/epilight_cpp_new.pdf)
 
 - https://github.com/TheAlgorithms/C-Plus-Plus

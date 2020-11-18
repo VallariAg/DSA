@@ -1,6 +1,11 @@
 # Linked List
 
-
+``` 
+               Array           Lists
+Reading:       O(1)             O(n)
+Insertion:     O(n)             O(1)
+Deletion:      O(n)             O(1)
+```
 - Pointers: 
     - https://www.programiz.com/cpp-programming/pointers
 - Singly Linked List: 
